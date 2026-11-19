@@ -1,0 +1,33 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store
+# artifacts besar bisa di-commit manual bila perlu
+results/*
+!results/.gitkeep
+
+# rahasia dan sementara
+.env
+*.tmp
+*.log
+.vscode/
+# data asli yang tidak boleh dibagikan (contoh data tetap disertakan)
+data/private/
+data/*_asli.csv
+# embedding besar (hapus baris ini jika ingin ikut di-commit)
+artifacts/embeddings.npy
+
+# Dataset nyata: cache API dan hasil panen mentah tidak ikut repositori publik (periksa lisensi dulu, lihat data/DATA_SOURCES.md)
+data/real/cache/
+data/real/harvest/*.csv
+data/real/imports/*.csv
+data/real/documents_raw.csv
+
+# Berkas anotasi: provenance (metode per dokumen) tidak boleh sampai ke anotator; pool terisi disimpan sebagai bukti pada repositori penelitian bila diinginkan
+data/annotation/pool_provenance.csv
+
+# data mentah ekspor PoP (periksa lisensi penerbit sebelum dibagikan)
+data/real/raw/

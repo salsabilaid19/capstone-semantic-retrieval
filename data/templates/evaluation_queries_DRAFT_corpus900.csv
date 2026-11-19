@@ -1,0 +1,31 @@
+query_id,query,query_type,notes
+Q01,klasifikasi,pendek,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q02,analisis sentimen,pendek,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q03,deep learning,pendek,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q04,forecasting,pendek,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q05,internet of things,pendek,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q06,sistem pakar,pendek,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q07,TOPSIS,pendek,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q08,chatbot,pendek,DRAFT untuk ditinjau tim; BM25 menemukan 2/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q09,segmentasi citra,pendek,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q10,deteksi hoaks,pendek,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q11,clustering,pendek,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q12,keamanan jaringan,pendek,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q13,sistem rekomendasi,pendek,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q14,cloud computing,pendek,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q15,text mining,pendek,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q16,logika fuzzy,pendek,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q17,sistem informasi geografis,pendek,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q18,jaringan syaraf tiruan,pendek,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q19,deteksi penyakit tanaman dengan convolutional neural network,panjang,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q20,klasifikasi sentimen ulasan produk menggunakan support vector machine,panjang,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q21,sistem pendukung keputusan pemilihan karyawan terbaik,panjang,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q22,prediksi harga saham menggunakan long short term memory,panjang,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q23,implementasi internet of things untuk monitoring kualitas air,panjang,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q24,analisis opini publik pada media sosial twitter,panjang,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q25,pengenalan wajah menggunakan deep learning,panjang,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q26,optimasi rute pengiriman dengan algoritma genetika,panjang,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q27,intrusion detection system for network security using machine learning,panjang,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q28,mobile application for learning based on android,panjang,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q29,book recommendation using collaborative filtering,panjang,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi
+Q30,pencarian dokumen semantik untuk artikel ilmiah,panjang,DRAFT untuk ditinjau tim; BM25 menemukan 10/10 dokumen berskor>0; BUKAN penilaian relevansi

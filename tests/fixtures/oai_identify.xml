@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- FIXTURE REKAAN BUATAN -->
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"><responseDate>2026-01-01T00:00:00Z</responseDate><request verb="Identify">x</request><Identify><repositoryName>Jurnal Fixture</repositoryName><baseURL>http://fixture.invalid/oai</baseURL><protocolVersion>2.0</protocolVersion><earliestDatestamp>2015-01-01</earliestDatestamp><granularity>YYYY-MM-DD</granularity></Identify></OAI-PMH>

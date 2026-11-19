@@ -1,0 +1,3 @@
+# Dependensi pengembangan/pengujian (termasuk runtime)
+-r requirements.txt
+pytest>=8.0

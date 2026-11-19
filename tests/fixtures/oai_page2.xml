@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- FIXTURE REKAAN BUATAN untuk tes; bukan data nyata -->
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><responseDate>2026-01-01T00:00:00Z</responseDate><request verb="ListRecords">http://fixture.invalid/oai</request><ListRecords>
+<record><header><identifier>oai:fixture.invalid:article/9</identifier><datestamp>2024-03-05</datestamp></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title>Klasifikasi Sentimen Ulasan Aplikasi Menggunakan Naive Bayes (versi arsip)</dc:title>
+<dc:description>Duplikat DOI dengan artikel 1 untuk menguji deduplikasi.</dc:description><dc:date>2024-02-15</dc:date>
+<dc:identifier>10.99999/FIXTURE.1</dc:identifier><dc:identifier>https://fixture.invalid/index.php/jf/article/view/9</dc:identifier></oai_dc:dc></metadata></record>
+<record><header><identifier>oai:fixture.invalid:article/10</identifier><datestamp>2022-01-01</datestamp></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title>Pengaruh Pupuk terhadap Hasil Panen Padi</dc:title><dc:subject>pertanian</dc:subject>
+<dc:description>Penelitian ini membahas pupuk organik terhadap hasil panen padi di lahan sawah.</dc:description>
+<dc:date>2022-01-01</dc:date><dc:identifier>10.99999/fixture.10</dc:identifier></oai_dc:dc></metadata></record>
+<record><header><identifier>oai:fixture.invalid:article/11</identifier><datestamp>2022-01-01</datestamp></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title>Sistem Informasi Tanpa Abstrak</dc:title><dc:date>2022</dc:date><dc:identifier>10.99999/fixture.11</dc:identifier></oai_dc:dc></metadata></record>
+</ListRecords></OAI-PMH>

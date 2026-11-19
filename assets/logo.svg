@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="260" height="48" viewBox="0 0 260 48">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2563EB"/><stop offset="1" stop-color="#7C3AED"/></linearGradient></defs>
+<rect x="2" y="4" width="40" height="40" rx="12" fill="url(#g)"/>
+<g fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"><circle cx="21" cy="22" r="8.5"/><line x1="28" y1="29" x2="34" y2="35"/></g>
+<text x="54" y="22" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" fill="#FFFFFF">Semantic Retrieval</text>
+<text x="54" y="38" font-family="Segoe UI,Arial,sans-serif" font-size="12" fill="#B9C6F5">Dokumen akademik</text>
+</svg>

@@ -1,0 +1,9 @@
+{
+  "model_name": "intfloat/multilingual-e5-small",
+  "document_prefix": "passage: ",
+  "query_prefix": "query: ",
+  "normalize_embeddings": true,
+  "num_documents": 13,
+  "embedding_dim": 384,
+  "status": "TEMPLATE - akan ditimpa oleh notebooks/generate_embeddings.ipynb (tanpa doc_ids_sha1)"
+}

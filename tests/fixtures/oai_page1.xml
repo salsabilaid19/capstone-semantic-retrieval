@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- FIXTURE REKAAN BUATAN untuk tes; bukan data nyata -->
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"><responseDate>2026-01-01T00:00:00Z</responseDate><request verb="ListRecords">http://fixture.invalid/oai</request><ListRecords>
+<record><header><identifier>oai:fixture.invalid:article/1</identifier><datestamp>2024-03-01</datestamp></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title xml:lang="id">Klasifikasi Sentimen Ulasan Aplikasi Menggunakan Naive Bayes</dc:title>
+<dc:creator>Fulan Contoh</dc:creator><dc:creator>Fulanah Contoh</dc:creator>
+<dc:subject>analisis sentimen</dc:subject><dc:subject>naive bayes</dc:subject>
+<dc:description xml:lang="id">Penelitian ini mengklasifikasikan sentimen ulasan aplikasi menggunakan metode Naive Bayes dan TF-IDF.</dc:description>
+<dc:publisher>Penerbit Fixture</dc:publisher><dc:date>2024-02-15</dc:date><dc:type>info:eu-repo/semantics/article</dc:type>
+<dc:identifier>https://fixture.invalid/index.php/jf/article/view/1</dc:identifier><dc:identifier>10.99999/fixture.1</dc:identifier>
+<dc:language>ind</dc:language><dc:rights>CC BY 4.0</dc:rights></oai_dc:dc></metadata></record>
+<record><header status="deleted"><identifier>oai:fixture.invalid:article/2</identifier><datestamp>2024-03-02</datestamp></header></record>
+<record><header><identifier>oai:fixture.invalid:article/3</identifier><datestamp>2023-06-01</datestamp></header><metadata><oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dc:title>Information Retrieval for Indonesian Documents</dc:title><dc:creator>Jane Doe</dc:creator>
+<dc:description>&lt;p&gt;This paper studies &lt;b&gt;information retrieval&lt;/b&gt; for Indonesian documents.&lt;/p&gt;</dc:description>
+<dc:date>2023-05-20</dc:date><dc:type>Peer-reviewed Article</dc:type>
+<dc:identifier>https://fixture.invalid/index.php/jf/article/view/3</dc:identifier><dc:language>en</dc:language></oai_dc:dc></metadata></record>
+<resumptionToken>tok123</resumptionToken></ListRecords></OAI-PMH>

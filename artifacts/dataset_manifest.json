@@ -1,0 +1,54 @@
+{
+  "kind": "synthetic",
+  "built_at": "2026-10-26T22:21:01+00:00",
+  "num_documents": 13,
+  "doc_ids_sha1": "3b54fe235e2f77520da507928989e11b678b6f6d",
+  "input_files": [
+    "sample_synthetic.csv"
+  ],
+  "sources": [],
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "Dataset ini SINTETIS: hanya untuk uji coba aplikasi; jangan dipakai untuk klaim hasil penelitian."
+    ],
+    "stats": {
+      "jumlah_dokumen": 13,
+      "data_source": {
+        "synthetic": 13
+      },
+      "persen_doi": 92.3,
+      "persen_source_url": 100.0,
+      "persen_keywords": 100.0,
+      "persen_journal": 100.0,
+      "persen_author": 100.0,
+      "persen_year": 100.0,
+      "duplikat_doc_id": 0,
+      "duplikat_title": 0,
+      "duplikat_doi": 0,
+      "rentang_tahun": [
+        2018,
+        2023
+      ],
+      "panjang_abstrak_median": 115,
+      "bahasa": {
+        "id": 13
+      },
+      "per_jurnal": {
+        "Jurnal Teknologi": 1,
+        "Jurnal Informatika": 1,
+        "Jurnal Sistem Informasi": 1,
+        "Jurnal Geomatika": 1,
+        "Jurnal Ilmu Komputer": 1,
+        "Jurnal Kecerdasan Buatan": 1,
+        "Jurnal Linguistik Komputasional": 1,
+        "Jurnal Teknologi Pertanian": 1,
+        "Jurnal Rekayasa Sistem": 1,
+        "Jurnal Lingkungan": 1,
+        "Jurnal Perpustakaan Digital": 1,
+        "Jurnal Komunikasi Digital": 1,
+        "Jurnal Penanggulangan Bencana": 1
+      }
+    }
+  }
+}

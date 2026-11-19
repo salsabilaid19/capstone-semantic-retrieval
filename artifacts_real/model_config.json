@@ -1,0 +1,15 @@
+{
+  "model_name": "intfloat/multilingual-e5-small",
+  "document_prefix": "passage: ",
+  "query_prefix": "query: ",
+  "normalize_embeddings": true,
+  "num_documents": 900,
+  "embedding_dim": 384,
+  "doc_ids_sha1": "20f6c29e9fb54080e295d7a05f5d5fbc0d7d4075",
+  "library_versions": {
+    "sentence-transformers": "5.7.0",
+    "torch": "2.14.1+cpu",
+    "transformers": "5.22.1",
+    "numpy": "2.4.6"
+  }
+}

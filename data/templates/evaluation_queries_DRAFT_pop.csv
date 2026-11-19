@@ -1,0 +1,31 @@
+query_id,query,query_type,notes
+Q01,chatbot,short_ambiguous,DRAFT - tim wajib meninjau
+Q02,cybersecurity,short_ambiguous,DRAFT
+Q03,sentiment analysis,short,DRAFT
+Q04,image classification,short,DRAFT
+Q05,big data,short_ambiguous,DRAFT
+Q06,transfer learning,short,DRAFT
+Q07,human-computer interaction,short,DRAFT
+Q08,emotion recognition,short,DRAFT
+Q09,federated learning,short,DRAFT
+Q10,anomaly detection,short,DRAFT
+Q11,recommendation system,short,DRAFT
+Q12,smart grid,short,DRAFT
+Q13,education,short_ambiguous,DRAFT
+Q14,healthcare,short_ambiguous,DRAFT
+Q15,blockchain,short,DRAFT
+Q16,how machine learning is used to detect cyber attacks,long,DRAFT
+Q17,deep learning methods for natural language processing tasks,long,DRAFT
+Q18,predicting student performance with machine learning,long,DRAFT
+Q19,voice and emotion recognition for human computer interaction,long,DRAFT
+Q20,machine learning for disease prediction in healthcare,long,DRAFT
+Q21,applications of artificial intelligence in finance and banking,long,DRAFT
+Q22,neural networks for image processing and computer vision,long,DRAFT
+Q23,security and privacy risks in machine learning systems,long,DRAFT
+Q24,using big data analytics for business decision making,long,DRAFT
+Q25,internet of things combined with machine learning,long,DRAFT
+Q26,large language models and chatbot applications in customer service,long,DRAFT
+Q27,intrusion detection using deep learning,long,DRAFT
+Q28,machine learning approaches for software engineering and testing,long,DRAFT
+Q29,generative AI use in education and learning,long,DRAFT
+Q30,optimization algorithms combined with neural networks,long,DRAFT

@@ -1,0 +1,49 @@
+# Istilah filter topik (huruf kecil; cocok bila salah satu muncul di judul/kata kunci/abstrak).
+# Tujuan: Informatika, AI, NLP, Sistem Informasi, Information Retrieval. Ubah sesuai kebutuhan.
+informatika
+informasi
+information retrieval
+temu kembali
+pencarian
+search engine
+machine learning
+pembelajaran mesin
+deep learning
+neural
+jaringan saraf
+klasifikasi
+classification
+clustering
+klaster
+data mining
+text mining
+natural language
+bahasa alami
+nlp
+sentimen
+sentiment
+kecerdasan buatan
+artificial intelligence
+semantic
+semantik
+ontologi
+ontology
+rekomendasi
+recommend
+chatbot
+bert
+transformer
+algoritma
+algorithm
+basis data
+database
+perangkat lunak
+software
+komputasi
+computing
+komputer
+computer
+citra
+image
+prediksi
+prediction

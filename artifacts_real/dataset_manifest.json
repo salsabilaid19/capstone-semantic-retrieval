@@ -1,0 +1,69 @@
+{
+  "kind": "real",
+  "built_at": "2026-11-07T04:10:11+00:00",
+  "num_documents": 900,
+  "doc_ids_sha1": "20f6c29e9fb54080e295d7a05f5d5fbc0d7d4075",
+  "input_files": [
+    "ijccs.csv",
+    "jnteti.csv",
+    "resti.csv"
+  ],
+  "sources": [
+    {
+      "source_id": "ijccs",
+      "name": "IJCCS (Indonesian Journal of Computing and Cybernetics Systems)",
+      "license": "CC BY-SA 4.0",
+      "verification": "verified"
+    },
+    {
+      "source_id": "jnteti",
+      "name": "JNTETI (Jurnal Nasional Teknik Elektro dan Teknologi Informasi)",
+      "license": "CC BY-SA 4.0",
+      "verification": "verified"
+    },
+    {
+      "source_id": "resti",
+      "name": "Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi)",
+      "license": "CC BY 4.0",
+      "verification": "verified"
+    }
+  ],
+  "validation": {
+    "errors": [],
+    "warnings": [
+      "judul identik: 1 baris.",
+      "2 abstrak sangat pendek (<80 karakter); periksa apakah terpotong atau placeholder.",
+      "Kurang dari 50% dokumen terdeteksi berbahasa Indonesia (heuristik). Pastikan sesuai tujuan dataset Indonesia.",
+      "Jumlah dokumen 900 di luar target awal 200-500."
+    ],
+    "stats": {
+      "jumlah_dokumen": 900,
+      "data_source": {
+        "real": 900
+      },
+      "persen_doi": 76.7,
+      "persen_source_url": 100.0,
+      "persen_keywords": 90.1,
+      "persen_journal": 100.0,
+      "persen_author": 100.0,
+      "persen_year": 100.0,
+      "duplikat_doc_id": 0,
+      "duplikat_title": 1,
+      "duplikat_doi": 0,
+      "rentang_tahun": [
+        2007,
+        2024
+      ],
+      "panjang_abstrak_median": 1239,
+      "bahasa": {
+        "en": 616,
+        "id": 284
+      },
+      "per_jurnal": {
+        "IJCCS (Indonesian Journal of Computing and Cybernetics Systems)": 300,
+        "JNTETI (Jurnal Nasional Teknik Elektro dan Teknologi Informasi)": 300,
+        "Jurnal RESTI (Rekayasa Sistem dan Teknologi Informasi)": 300
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+# Dependensi RINGAN: pencarian BM25 saja (tanpa sentence-transformers/PyTorch).
+# Dipakai untuk hosting dengan RAM kecil (mis. Streamlit Community Cloud). Aplikasi otomatis fallback ke BM25
+# dengan pemberitahuan (lihat docs/panduan_deployment.md). Versi minimum sama dengan requirements.txt.
+streamlit>=1.50
+altair>=5.0
+pandas>=2.1
+numpy>=1.26
+rank-bm25>=0.2.2
